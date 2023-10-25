@@ -36,7 +36,7 @@ Version: $VERSION
 Section: net
 Priority: optional
 Architecture: all
-Depends: cinac, cinac-api, autokiosk, spice-web-client, nginx
+Depends: cinac, autokiosk, spice-web-client, nginx
 Maintainer: Bodo Endres <dev@muspekaren.se>
 Description: $DESCRIPTION
 " >"$PATH_TARGET/control"
